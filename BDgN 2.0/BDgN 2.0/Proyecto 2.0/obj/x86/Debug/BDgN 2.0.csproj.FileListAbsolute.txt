@@ -1,0 +1,26 @@
+C:\Users\wakamole\Documents\Visual Studio 2010\Projects\BDgN 2.0\Proyecto 2.0\bin\Debug\Proyecto 2.0.exe.manifest
+C:\Users\wakamole\Documents\Visual Studio 2010\Projects\BDgN 2.0\Proyecto 2.0\bin\Debug\Proyecto 2.0.application
+C:\Users\wakamole\Documents\Visual Studio 2010\Projects\BDgN 2.0\Proyecto 2.0\bin\Debug\Proyecto 2.0.exe
+C:\Users\wakamole\Documents\Visual Studio 2010\Projects\BDgN 2.0\Proyecto 2.0\bin\Debug\Proyecto 2.0.pdb
+C:\Users\wakamole\Documents\Visual Studio 2010\Projects\BDgN 2.0\Proyecto 2.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\wakamole\Documents\Visual Studio 2010\Projects\BDgN 2.0\Proyecto 2.0\obj\x86\Debug\WindowsFormsApplication1.Clasificaciones.resources
+C:\Users\wakamole\Documents\Visual Studio 2010\Projects\BDgN 2.0\Proyecto 2.0\obj\x86\Debug\WindowsFormsApplication1.Cliente.resources
+C:\Users\wakamole\Documents\Visual Studio 2010\Projects\BDgN 2.0\Proyecto 2.0\obj\x86\Debug\WindowsFormsApplication1.Buscar_Guia.resources
+C:\Users\wakamole\Documents\Visual Studio 2010\Projects\BDgN 2.0\Proyecto 2.0\obj\x86\Debug\WindowsFormsApplication1.FacturaProveedor.resources
+C:\Users\wakamole\Documents\Visual Studio 2010\Projects\BDgN 2.0\Proyecto 2.0\obj\x86\Debug\WindowsFormsApplication1.FacturasCliente.resources
+C:\Users\wakamole\Documents\Visual Studio 2010\Projects\BDgN 2.0\Proyecto 2.0\obj\x86\Debug\WindowsFormsApplication1.Historial_Producto.resources
+C:\Users\wakamole\Documents\Visual Studio 2010\Projects\BDgN 2.0\Proyecto 2.0\obj\x86\Debug\WindowsFormsApplication1.Inventario.resources
+C:\Users\wakamole\Documents\Visual Studio 2010\Projects\BDgN 2.0\Proyecto 2.0\obj\x86\Debug\WindowsFormsApplication1.GuiasG.resources
+C:\Users\wakamole\Documents\Visual Studio 2010\Projects\BDgN 2.0\Proyecto 2.0\obj\x86\Debug\WindowsFormsApplication1.Historial_Cliente.resources
+C:\Users\wakamole\Documents\Visual Studio 2010\Projects\BDgN 2.0\Proyecto 2.0\obj\x86\Debug\WindowsFormsApplication1.Historial_Proveedor.resources
+C:\Users\wakamole\Documents\Visual Studio 2010\Projects\BDgN 2.0\Proyecto 2.0\obj\x86\Debug\WindowsFormsApplication1.LoginUser.resources
+C:\Users\wakamole\Documents\Visual Studio 2010\Projects\BDgN 2.0\Proyecto 2.0\obj\x86\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\wakamole\Documents\Visual Studio 2010\Projects\BDgN 2.0\Proyecto 2.0\obj\x86\Debug\WindowsFormsApplication1.Precio.resources
+C:\Users\wakamole\Documents\Visual Studio 2010\Projects\BDgN 2.0\Proyecto 2.0\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\wakamole\Documents\Visual Studio 2010\Projects\BDgN 2.0\Proyecto 2.0\obj\x86\Debug\WindowsFormsApplication1.Proveedor.resources
+C:\Users\wakamole\Documents\Visual Studio 2010\Projects\BDgN 2.0\Proyecto 2.0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\wakamole\Documents\Visual Studio 2010\Projects\BDgN 2.0\Proyecto 2.0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\wakamole\Documents\Visual Studio 2010\Projects\BDgN 2.0\Proyecto 2.0\obj\x86\Debug\Proyecto 2.0.exe.manifest
+C:\Users\wakamole\Documents\Visual Studio 2010\Projects\BDgN 2.0\Proyecto 2.0\obj\x86\Debug\Proyecto 2.0.application
+C:\Users\wakamole\Documents\Visual Studio 2010\Projects\BDgN 2.0\Proyecto 2.0\obj\x86\Debug\Proyecto 2.0.exe
+C:\Users\wakamole\Documents\Visual Studio 2010\Projects\BDgN 2.0\Proyecto 2.0\obj\x86\Debug\Proyecto 2.0.pdb
